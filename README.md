@@ -1,4 +1,4 @@
-# Android开发奇淫技巧（Android Dev Cookbook）
+# Android开发奇淫技巧
 
 ## 缘由
 
